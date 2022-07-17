@@ -7,7 +7,7 @@ namespace LogicalPrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Press a number : \nFibonacciSeries :1\nPerfectNumber :2\nPrimeNumber :3" +
-                "\nReverseNumber :4");
+                "\nReverseNumber :4\nCouponNumber :5");
             int problemNumber = Convert.ToInt32(Console.ReadLine());
 
             switch (problemNumber)
@@ -23,6 +23,9 @@ namespace LogicalPrograms
                     break;
                 case 4:
                     ReverseNumber.ReverseDigit();
+                    break;
+                case 5:
+                    CouponNumber.CouponGenerator();
                     break;
                 default:
                     Console.WriteLine("Invalid choice");
