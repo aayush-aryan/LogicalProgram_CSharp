@@ -1,0 +1,14 @@
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\bin\Debug\netcoreapp3.1\LogicalPrograms.exe
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\bin\Debug\netcoreapp3.1\LogicalPrograms.deps.json
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\bin\Debug\netcoreapp3.1\LogicalPrograms.runtimeconfig.json
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\bin\Debug\netcoreapp3.1\LogicalPrograms.runtimeconfig.dev.json
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\bin\Debug\netcoreapp3.1\LogicalPrograms.dll
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\bin\Debug\netcoreapp3.1\LogicalPrograms.pdb
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\obj\Debug\netcoreapp3.1\LogicalPrograms.csproj.AssemblyReference.cache
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\obj\Debug\netcoreapp3.1\LogicalPrograms.GeneratedMSBuildEditorConfig.editorconfig
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\obj\Debug\netcoreapp3.1\LogicalPrograms.AssemblyInfoInputs.cache
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\obj\Debug\netcoreapp3.1\LogicalPrograms.AssemblyInfo.cs
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\obj\Debug\netcoreapp3.1\LogicalPrograms.csproj.CoreCompileInputs.cache
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\obj\Debug\netcoreapp3.1\LogicalPrograms.dll
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\obj\Debug\netcoreapp3.1\LogicalPrograms.pdb
+F:\bridgelabz_CSharp\Day6LogicalProgram\LogicalPrograms\obj\Debug\netcoreapp3.1\LogicalPrograms.genruntimeconfig.cache
