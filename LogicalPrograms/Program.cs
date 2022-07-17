@@ -7,7 +7,7 @@ namespace LogicalPrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Press a number : \nFibonacciSeries :1\nPerfectNumber :2\nPrimeNumber :3" +
-                "\nReverseNumber :4\nCouponNumber :5");
+                "\nReverseNumber :4\nCouponNumber :5\nSimulateStopWatch :6");
             int problemNumber = Convert.ToInt32(Console.ReadLine());
 
             switch (problemNumber)
@@ -26,6 +26,9 @@ namespace LogicalPrograms
                     break;
                 case 5:
                     CouponNumber.CouponGenerator();
+                    break;
+                case 6:
+                    SimulateStopWatch.MeasuringTimeElapsed();
                     break;
                 default:
                     Console.WriteLine("Invalid choice");
