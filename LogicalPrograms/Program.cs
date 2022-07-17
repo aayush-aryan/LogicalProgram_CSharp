@@ -6,7 +6,8 @@ namespace LogicalPrograms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Press a number : \nFibonacciSeries :1\nPerfectNumber :2\nPrimeNumber :3");
+            Console.WriteLine("Press a number : \nFibonacciSeries :1\nPerfectNumber :2\nPrimeNumber :3" +
+                "\nReverseNumber :4");
             int problemNumber = Convert.ToInt32(Console.ReadLine());
 
             switch (problemNumber)
@@ -19,6 +20,9 @@ namespace LogicalPrograms
                     break;
                 case 3:
                     PrimeNumber.CheckPrimeNumber();
+                    break;
+                case 4:
+                    ReverseNumber.ReverseDigit();
                     break;
                 default:
                     Console.WriteLine("Invalid choice");
